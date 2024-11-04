@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **SharePoint,React,C#**
 
-- 📫 How to reach me **sagmuk82@gmail.com**
+- 📫 How to reach me **msagnik11@gmail.com**
 
 - ⚡ Fun fact **I think that coding is a one type of fun.**
 
