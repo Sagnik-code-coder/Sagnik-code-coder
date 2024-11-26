@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Mazda Canada Inc.**
 
-- 🌱 I’m currently learning **.Net Framework**
+- 🌱 I’m currently learning **Generative AI**
 
 - 👯 I’m looking to collaborate on **Freelancing**
 
