@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **Freelancing**
 
-- 💬 Ask me about **SharePoint,React,C#**
+- 💬 Ask me about **SharePoint,React,C#,Angular18**
 
 - 📫 How to reach me **msagnik11@gmail.com**
 
